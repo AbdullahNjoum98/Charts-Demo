@@ -3,6 +3,8 @@ Simple React Project For Demoing Charts (using apexcharts)
 
 This is a pretty simple project that's built on aim of explaining the use of Apexcharts, demoing a set of their charts.
 
+- Live Demo: https://dainty-malabi-0057b0.netlify.app/
+
 Heatmap Chart:
 <img width="525" alt="image" src="https://github.com/AbdullahNjoum98/Charts-Demo/assets/56254725/2437274f-1a72-4b81-971f-259b3cfe806a">
 
